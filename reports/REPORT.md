@@ -16,7 +16,7 @@ thời gian gán / 20. -->
 | Số ảnh đã gán | 20 |
 | Số skeleton | 27 |
 | v=2 / v=1 / v=0 | 311 / 121 / 27 |
-| Thời gian trung bình mỗi ảnh | |
+| Thời gian trung bình mỗi ảnh | 8phut |
 
 Ba khớp có `%v=1` cao nhất (chép từ `reports/visibility_report.md`):
 
